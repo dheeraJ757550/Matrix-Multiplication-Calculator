@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px; /* Increased margin */
+    padding: 0;
+    background-color: black;
+    /* color: rgb(247, 218, 165); */
+          background-image: url('4.webp');
+          background-size: 250px ;
+          color: black;
+
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto; /* Center the container */
+    background-color: #fff;
+    padding: 20px;
+      /* background-image: url('5.png'); */
+      /* background-color: brown; */
+  
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 80vh;
+  
+  }
+  #mm{
+    /* color: yellow; */
+  }
+  
+  
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 4px;
+    width: 50px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .matrix-input {
+    margin-bottom: 20px;
+  }
+  
+  .matrix-input input {
+    margin-right: 4px;
+  }
+  
+  .matrix {
+    margin-bottom: 20px;
+  }
+  
+  .matrix table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .matrix table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
